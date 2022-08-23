@@ -5,7 +5,7 @@ print("Lista l1: ", l1)
 l2 = [1, 3, 2, 4, 5]
 print("Lista l2: ", l2)
 l3 = l1 + l2
-print("Połączone listy l1 i l2 - lista l3:", l3)
+print("Lista l3 - połączone listy l1 i l2:", l3)
 
 l3.sort()
 print("Posortowana lista l3:", l3, "\n")
@@ -37,7 +37,10 @@ print ("Lista l3 odwrócona 6. sposobem:", reversed_06)
 
 
 print("\nZadanie 2, sprawdzanie obecności elementu na liście.\n")
-print("Zabawa w sprawdzanie obecności liczby na liście:")
+print("Zabawa w sprawdzanie obecności liczby na liście.")
+print("Program sprawdza, czy podana przez użytkownika licza znajduje")
+print("się na używanej wcześniej liście l3.")
+print("Wynik ma zwrócić wartość True/False.")
 
 while True:
     print('\nAby zakończyć naciśnij "q"')
