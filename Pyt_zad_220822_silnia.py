@@ -8,10 +8,5 @@ while True:
     else:
         n = int(n)
         for number in range(a,n + 1):
-            a = (a) * number
-            # print(a)
+            a = a * number
         print("Silnia liczby", n, "to", a)
-
-
-
-

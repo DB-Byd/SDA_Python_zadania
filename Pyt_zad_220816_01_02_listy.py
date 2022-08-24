@@ -38,7 +38,7 @@ print ("Lista l3 odwrócona 6. sposobem:", reversed_06)
 
 print("\nZadanie 2, sprawdzanie obecności elementu na liście.\n")
 print("Zabawa w sprawdzanie obecności liczby na liście.")
-print("Program sprawdza, czy podana przez użytkownika licza znajduje")
+print("Program sprawdza, czy podana przez użytkownika liczba znajduje")
 print("się na używanej wcześniej liście l3.")
 print("Wynik ma zwrócić wartość True/False.")
 
@@ -54,6 +54,3 @@ while True:
             check = False
         print(check)    
 print("\n**** Dzięki za klikanie :))) ****\n\n")
-
-
-
